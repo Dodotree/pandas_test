@@ -22,6 +22,8 @@ Test contained chained clusters and obscure data like properties without hoste a
 Chained:
 
 A->X (A=X)
+
 B->Y (B=Y)
+
 A->Y (A=Y=B=X) All in the same cluster
 
