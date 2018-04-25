@@ -1,8 +1,6 @@
 # pandas_test
 test for airbnb
 
-
-
 We want to get answers to a few questions
 
 (1) Using unique_host_id, how many unique hosts are there in Vancouver?
